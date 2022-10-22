@@ -1,0 +1,52 @@
+.aside-contact{
+    background-color: rgb(85, 85, 212);
+    float: right;
+    border-color: rgb(0, 0, 0);
+    border:4px;
+    border-style: solid;
+    padding-bottom: 100px;
+    padding-top: 40px;
+    padding-left: 50px;
+    padding-right: 40px;
+    margin-top: 10px;
+    margin-right: 60px;
+    margin-left: 40px;
+
+}
+.aside-item-list{
+    text-decoration: none;
+    list-style-type: none;
+}
+.aside-text{
+    list-style: none;
+    text-decoration: none;
+    color: rgb(255, 255, 255);
+    margin-right: 50px;
+    font-size: 18px;
+}
+.aside-item{
+    display: inline-flex;
+    justify-content: space-between;
+    text-decoration: none;
+}
+.title-contact-list{
+       text-align: center;
+       padding-bottom: 40px;
+       color:white;
+}
+.aside-text{
+    padding: 8px 12px;     
+    border-radius: 4px;
+    text-decoration: none;
+    color: aliceblue;
+ }
+ .aside-text:hover {
+     background-color: #5a7283;
+     transition: 0.5s;
+     
+ }
+ .aside-img{
+    padding-top: 10px;
+    padding-left: 10px;
+    padding-right: 20px;
+ }
